@@ -1,0 +1,17 @@
+.body{
+    background-color: lightpink;
+}
+.option{
+    cursor: pointer;
+}
+.option:hover{
+    background-color:black !important;
+    color:white !important;
+} 
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   height: 80vh;
+}
